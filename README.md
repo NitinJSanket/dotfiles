@@ -1,9 +1,14 @@
 # dotfiles
 Installation Guides, Hints, Tips and Tricks. 
 
-## TODO:
-- Add Update Notes
+### Update Notes
+- 22 Dec 2018: Backed Up Emacs.d folder
 
+### Table of Contents
+- Emacs
+- Github Markdown
+
+## Notes:
 - [Rendering Math Equations in Github MD](https://github.com/github/markup/issues/897)
 - [Issues with installing github-mathjax](https://github.com/orsharir/github-mathjax/issues/24#issuecomment-438140315):
   - Git clone the current repository to local path using ``git clone https://github.com/orsharir/github-mathjax.git``
