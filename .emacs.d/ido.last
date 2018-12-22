@@ -1,0 +1,319 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/media/nitin/Research/EVDodge/prg_evdodge/" . "DeblurNetUnsup/")
+ ("/media/nitin/Research/EVDodge/prg_evdodge/CIFAR10/" . "Misc/")
+ ("/home/nitin/Research/SpectralCompression/" . "Network/")
+ ("/media/nitin/Research/Homing/SpectralCompression/" . "Network/")
+ ("/media/nitin/Research/Homing/HomingNet/" . "Network/")
+ ("/media/nitin/Research/GapAssesmentCNN/GapAssesmentCNN/" . "Misc/")
+ ("/media/nitin/Research/GapAssesmentCNN/TensorFlow-Examples/examples/" . "3_NeuralNetworks/")
+ ("/media/nitin/Research/GapAssesmentCNN/TensorFlow-Examples/" . "examples/")
+ ("/media/nitin/Research/GapAssesmentCNN/3DGANLang/" . "PaperSummaries/")
+ ("/media/nitin/Research/GapAssesmentCNN/" . "GapAssesmentCNN/")
+ ("/media/nitin/Education/Fall2017/CMSC828T/Projects/P3/" . "Ph3/")
+ ("/media/nitin/Education/Fall2017/CMSC828T/Projects/" . "P3/")
+ ("/media/nitin/Education/Fall2017/CMSC828T/" . "Projects/")
+ ("/media/nitin/Education/Fall2017/" . "CMSC828T/")
+ ("/media/nitin/Research/Review/" . "IMAVIS2017/")
+ ("/media/nitin/Education/Spring2017/CMSC733/HW3/" . "HW1Draft/")
+ ("/media/nitin/Research/Telluride/" . "InterestStatement/")
+ ("/media/nitin/Research/" . "GapAssesmentCNN/")
+ ("/media/nitin/Education/Spring2017/CMSC733/Midterm/" . "Draft/")
+ ("/media/nitin/Education/Spring2017/CMSC733/HW2/" . "Draft/")
+ ("/media/nitin/Education/Spring2017/CMSC764/HW4/" . "Draft/")
+ ("/media/nitin/Education/Spring2017/CMSC733/P2/YourDirectoryID_P2/" . "Code/")
+ ("/media/nitin/Education/Spring2017/CMSC733/P2/Code/dlib-master/" . "python_examples/")
+ ("/media/nitin/Education/Spring2017/CMSC733/P2/Code/" . "dlib-master/")
+ ("/media/nitin/Education/Spring2017/CMSC733/P2/" . "Draft/")
+ ("/media/nitin/Education/Spring2017/CMSC733/HW1/" . "Draft/")
+ ("/media/nitin/Education/Spring2017/CIS580/Proj1/" . "mysid_proj1/")
+ ("/media/nitin/Education/Spring2017/CIS580/" . "Proj1/")
+ ("/media/nitin/Education/" . "Fall2017/")
+ ("/media/nitin/" . "Research/")
+ ("/media/" . "nitin/")
+ ("/media/nitin/Education/Spring2017/CMSC764/" . "HW5/")
+ ("/media/nitin/Education/Spring2017/CMSC733/P1/YourDirectoryID_P1/" . "Draft/")
+ ("/media/nitin/Education/Spring2017/CMSC733/P1/" . "YourDirectoryID_P1/")
+ ("/media/nitin/Education/Spring2017/CMSC733/" . "HW3/")
+ ("/media/nitin/Education/Spring2017/" . "CMSC733/")
+ ("/home/nitin/" . "EmacsFiles/")
+ ("/home/" . "nitin/")
+ ("/usr/" . "bin/")
+ ("/" . "home/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/media/nitin/Research/EVDodge/prg_evdodge/DeblurNetUnsup/"
+ "/media/nitin/Research/EVDodge/prg_evdodge/HomographyNetUnsup/"
+ "/media/nitin/Research/EVDodge/prg_evdodge/CIFAR10/Misc/"
+ "/media/nitin/Research/GapFlyt2/EVNET/evnet/src/"
+ "/media/nitin/Research/GapAssesment/Review/GapFlyt/"
+ "/media/nitin/Research/GapAssesment/Submission/Supplementary/"
+ "/home/nitin/Downloads/GapFlytCameraReady/"
+ "/home/nitin/Research/SpectralCompression/"
+ "/home/nitin/Research/SpectralCompression/Network/"
+ "/media/nitin/Research/Homing/SpectralCompression/"
+ "/media/nitin/Research/Homing/SpectralCompression/Network/"
+ "/media/nitin/Research/Homing/SpectralCompression/Misc/"
+ "/media/nitin/Research/Homing/SpectralCNN/src/modules/"
+ "/media/nitin/Research/Homing/HomingNet/Network/"
+ "/media/nitin/Research/Homing/HomingNet/"
+ "/home/nitin/Downloads/ieeeconf/"
+ "/media/nitin/Research/Homing/HomingNet/Misc/"
+ "/home/nitin/"
+ "/media/nitin/Research/SalientDSO/PSPNet-tensorflow/"
+ "/media/nitin/Research/GapAssesmentCNN/GapAssesmentCNN/Misc/"
+ "/media/nitin/Research/GapAssesmentCNN/GapAssesmentCNN/"
+ "/media/nitin/Research/GapAssesment/WindowDetectionDraft/"
+ "/media/nitin/Research/GapAssesmentCNN/GapAssesmentCNN/Network/"
+ "/media/nitin/Education/Fall2017/CMSC828T/Projects/P2/Ph1/P2Ph1Draft/"
+ "/media/nitin/Research/GapAssesmentCNN/TensorFlow-Examples/examples/3_NeuralNetworks/"
+ "/media/nitin/Research/GapAssesmentCNN/3DGANLang/PaperSummaries/"
+ "/media/nitin/Research/GapAssesmentCNN/"
+ "/media/nitin/Education/Fall2017/CMSC828T/Projects/P2/Ph1/P2Ph1/"
+ "/media/nitin/Education/Fall2017/CMSC828T/Homeworks/HW1Draft/"
+ "/media/nitin/Education/Fall2017/CMSC828T/Projects/P3/Ph3/"
+ "/media/nitin/Research/GapAssesment/spynet/"
+ "/media/nitin/Research/GapAssesment/"
+ "/media/nitin/Research/Review/IMAVIS2017/"
+ "/media/nitin/Education/Spring2017/CMSC733/HW3/Draft/"
+ "/media/nitin/Education/Spring2017/CMSC733/HW3/HW1Draft/"
+ "/media/nitin/Education/Spring2017/CMSC733/HW3/HW3Draft/"
+ "/media/nitin/Education/Spring2017/CMSC733/Midterm/Solutions/Draft/"
+ "/media/nitin/Research/ATLocalizationPnP/"
+ "/media/nitin/Education/Spring2017/CMSC733/P4/Draft/"
+ "/media/nitin/Research/CppTest/"
+ "/media/nitin/Research/Telluride/InterestStatement/"
+ "/media/nitin/Education/Spring2017/CMSC733/Midterm/Draft/"
+ "/media/nitin/Education/Spring2017/"
+ "/media/nitin/Education/Spring2017/CMSC764/HW5/"
+ "/home/nitin/EmacsFiles/"
+ "/media/nitin/Education/Spring2017/CMSC733/HW2/Draft/"
+ "/media/nitin/Education/Spring2017/CMSC764/HW4/Draft/"
+ "/media/nitin/Education/Spring2017/CMSC733/P2/Draft/"
+ "/media/nitin/Education/Spring2017/CMSC733/P2/YourDirectoryID_P2/Code/"
+ "/media/nitin/Education/Spring2017/CMSC733/P2/Code/dlib-master/python_examples/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "RunEVDeblurNet.py"
+ "TestEVDeblurNet.py"
+ "README.txt"
+ "TrainEVHomographyNetUnsupSpec.py"
+ "DataParse.py"
+ "train.py"
+ "Ref.bib"
+ "ReadMe.txt"
+ "Details.txt"
+ "Train.py"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/media/nitin/Research/EVDodge/prg_evdodge/DeblurNetUnsup/" (23576 20734 708626 600000) "TrainEVDeblurNet.py~" "TrainEVDeblurNet.py" "TestEVHomographyNetUnsup2.py~" "TestEVDeblurNet.py" "RunEVDeblurNet.py~" "RunEVDeblurNet.py" "README.txt" "Network/" "Misc/" "Logs/" "DummyTest2.py" "DummyTest.py" "../" "./")
+
+ ("/media/nitin/Research/EVDodge/prg_evdodge/" (23576 23289 854955 800000) "rpg_davis_simulator/" "README.md" "HomographyNetUnsup/" "HomographyNet/" "EVDodgeNetWithHomography/" "EVDodgeNet/" "DeblurNetUnsup/" "davis_tensorflow/" "DataProcessingUtils/" "Checkpoints/" ".gitignore" ".git/" "../" "./")
+
+ ("/media/nitin/Research/EVDodge/prg_evdodge/HomographyNetUnsup/" (23576 23877 612176 300000) "TrainEVHomographyNetUnsupSpec.py" "TrainEVHomographyNetUnsup3.py~" "TrainEVHomographyNetUnsup3.py" "TrainEVHomographyNetUnsup2.py" "TrainEVHomographyNetUnsup.py" "TestEVHomographyNetUnsupPatchFlow.py" "TestEVHomographyNetUnsup2.py~" "TestEVHomographyNetUnsup2.py" "TestEVHomographyNetUnsup.py" "README.txt" "Network/" "Misc/" "Logs/" "DummyTest2.py" "DummyTest.py" "../" "./")
+
+ ("/media/nitin/Research/GapAssesment/" (23353 5652 236559 700000) "WindowDetectionWithControl05Feb2018/" "WindowDetectionWithControl/" "WindowDetectionReferences/" "WindowDetectionOLDCopy/" "WindowDetectionOLD/" "WindowDetectionNewCopy/" "WindowDetectionDraft.zip" "WindowDetectionDraft/" "WindowDetection-master.zip" "WindowDetection/" "Window1.ply" "TestTraingulation.m" "TestSfM.m" "TestOpticalFlow.m" "Test2.m" "Test1.m" "Submission/" "StereoDepth/" "spynet/" "SLAMDunk/" "SingleImageDepth/" "sequences.zip" "RunSpyNet.lua~" "Review/" "Photos.zip" "pcaflow/" "Papers/" "OpticalFlow/" "NormalFlow/" "motion.pdf" "KalibrREADME.md" "inhull.m" "GMS-Feature-Matcher/" "GapFlytArxiv.zip" "GapFlytArxiv/" "GapFlyt/" "FramesTest.zip" "FramesTest/" "FramesFromVid.m" "flownet2-tf-umd/" "flownet2-pytorch/" "flownet2/" "error_ellipse.m" "DAVIS/" "David_S_trajectory_creator.py~" "David_S_trajectory_creator.py" "cameraParams.mat" "CalibFrames/" "bebop-autonomy-prg/" "BagFiles15Nov2017/" "BagFiles08Nov2017/" "BagFiles07Dec2017/" "BagFiles04Feb2018/" "2017-07-11-01-06-08Frames/" "2017-07-11-01-05-43Frames/" "spynetOLD/" "FramesAll/" "../" "./")
+
+ ("/home/nitin/" (23511 37387 322386 438000) ".nano/" "java.log.28461" ".dbus/" ".bashrc~" "EmacsFiles/" "MATLABR2017aLicense/" ".gvfs/" ".emacs.d/" ".remmina/" "Downloads/" ".conda/" ".oracle_jre_usage/" "matlab_crash_dump.27754-1" ".cache/" "kdenlive/" ".theanorc" "Wallpapers/" ".jupyter/" ".viminfo" ".texmf-var/" ".mozilla/" "nvvp_workspace/" "Research/" ".thunderbird/" "Videos/" "examples.desktop" ".apport-ignore.xml" "kalibr_workspace/" ".android/" "java.log.23296" ".profile" ".eclipse/" "TensorFlowGIT/" ".theano/" ".gitconfig" ".pki/" ".gtk-recordmydesktop" "matconvnet/" ".wget-hsts" ".pycrust/" "slamdunk_qsg.rviz" "Desktop/" ".ipython/" "java.log.23571" ".smpd" ".xsession-errors.old" ".bash_logout" "#aa.m#" "tensorflow/" "apmplanner2/" "Music/" ".keras/" "testtf.py~" "CSVPN/" ".pypar2/" ".ssh/" "matlab_crash_dump.26238-1" "CMSC818GIndoorLocalization.pptx" ".dmrc" ".gnome/" "matlab_crash_dump.2502-1" ".ros/" ".emacs" ".xsession-errors" "wine-2.0/" ".cmake/" ".emacs~" ".local/" ".hplip/" "../" "matlab" ".Xauthority" ".bash_history" ".PyCharmCE2018.1/" ".subversion/" "aa.py" ".python_history" "java.log.18990" ".rviz/" "java.log.7819" "Qt5.7.0/" ".git-credential-cache/" "java.log.25036" ".vnc/" ".nv/" ".icons/" ".gnome2_private/" "MATLABDesktopCreateError.log" ".virtualenvs/" "java.log.14955" ".gnupg/" "anaconda3/" "torch/" ".visdom/" ".bashrc-anaconda3.bak" ".ICEauthority" ".compiz/" "Documents/" ".gconf/" ".luahistory" "pytorch/" ".gitkraken/" ".java/" "Public/" ".matlab/" ".sudo_as_admin_successful" "wine-2.0.tar.bz2" ".gksu.lock" "pycharm-community-2018.1.2/" "Templates/" "Untitled 1.pdf" "Todo.org~" ".bashrc" "Pictures/" "mapscache/" "a.py~" ".config/" "./" "teamviewer_i386.deb" "java.log.2727" "opencv/" ".gnome2/" "Hardware_Setup_App_for_PARROT_Minidrone.txt")
+
+ ("/media/nitin/Research/Homing/SpectralCompression/" (23313 58461 553940 900000) "TxtFiles/" "Train2.py" "Train.py~" "Train.py" "Test2.py" "Test.py" "README.md" "Network/" "Misc/" "Logs/" "CIFAR10/" ".idea/" ".git/" "../" "./")
+
+ ("/home/nitin/Research/SpectralCompression/" (23303 16208 716348 455000) "TxtFiles/" "Network/" "Logs/" "Test.py" "CIFAR10/" ".git/" "Train3.py" "Train.py" "Misc/" ".idea/" "../" "#Test.py#" "Train.py~" "Test2.py" "README.md" "Train2.py" "./" "Train3.py~")
+
+ ("/home/nitin/Downloads/GapFlytCameraReady/" (23310 47676 680579 644000) "Manuscript.tex" "changelog.txt" "Manuscript.log" "Manuscript.pdf" "Ref.bib" "bare_conf_compsoc.tex" "Images/" "bare_jrnl_transmag.tex" "bare_adv.tex" "bare_jrnl_compsoc.tex" "bare_conf.tex" "../" "Manuscript.aux" "IEEEtran.cls" "bare_jrnl.tex" "IEEEtran_HOWTO.pdf" "Draft.fdb_latexmk" "Manuscript.bbl" "Draft.fls" "ieeeconf.cls" "Manuscript.blg" "bare_jrnl_comsoc.tex" "README" "./" "Manuscript.out")
+
+ ("/media/nitin/Research/GapAssesment/Review/GapFlyt/" (23345 4286 730890 800000) "Ref.bib" "Images/" "IEEEtran.cls" "ieeeconf.cls" "Draft.tex" "Draft.pdf" "Draft.out" "Draft.log" "Draft.blg" "Draft.bbl" "Draft.aux" "../" "./")
+
+ ("/media/nitin/Research/GapFlyt2/EVNET/evnet/src/" (23443 1996 8902 200000) "utils.pyc" "utils.py" "train.py" "test_mvsec_flow.py" "test_mvsec_depth.py" "sfmlearner/" "nets_sparse.py" "nets.pyc" "nets.py" "mvsec_eval/" "EvSfMLearner.pyc" "EvSfMLearner.py" "data_loader.pyc" "data_loader.py" "data/" "../" "./")
+
+ ("/media/nitin/Research/EVDodge/prg_evdodge/CIFAR10/Misc/" (23515 47285 892780 0) "__pycache__/" "__init__.pyc" "__init__.py" "MiscUtils.py" "ImageUtils.py~" "ImageUtils.pyc" "ImageUtils.py" "../" "./")
+
+ ("/media/nitin/Research/EVDodge/prg_evdodge/CIFAR10/" (23515 47800 423719 300000) "TxtFiles/" "TrainIdentity.py" "TestIdentity.py" "RunNCS.sh" "README.txt" "Network/" "Misc/" "CIFAR10/" "../" "./")
+
+ ("/media/nitin/Research/GapFlyt2/EVNET/evnet/src/data/" (23442 60160 445895 0) "__init__.py" "prepare_train_data.py" "mvsec/" "ev_data/" "../" "./")
+
+ ("/media/nitin/Research/GapFlyt2/EVNET/evnet/src/data/mvsec/" (23443 1679 875441 0) "__init__.pyc" "__init__.py" "test_scenes_stereo.txt" "test_scenes_eigen.txt" "test_files_stereo.txt" "test_files_eigen.txt" "static_frames.txt" "mvsec_raw_loader.pyc" "mvsec_raw_loader.py" "mvsec_odom_loader.py" "../" "./")
+
+ ("/media/nitin/Research/GapAssesment/Submission/Supplementary/" (23312 17609 765575 100000) "ReadMe.txt" "GapFlytVideo.mp4" "GapFlytSupplementary.pdf" "Details.txt" "../" "./")
+
+ ("/media/nitin/Research/SalientDSO/PSPNet-tensorflow/" (23184 40735 720895 900000) "__pycache__/" "WriteFramesFromBag.m" "VSEPDataset.txt" "utils/" "TUMTest.txt" "TUMRGBDdesk1.txt" "train.py" "tools.pyc" "tools.py" "sequence_40.txt" "sequence_38.txt" "sequence_37.txt" "sequence_36.txt" "sequence_35.txt" "sequence_28.txt" "sequence_26.txt" "sequence_18.txt" "sequence_17.txt" "sequence_16.txt" "sequence_15.txt" "sequence_14.txt" "sequence_13.txt" "sequence_12.txt" "sequence_11.txt" "sequence_10.txt" "sequence_09.txt" "sequence_08.txt" "sequence_07.txt" "sequence_05.txt" "sequence_04.txt" "sequence_03.txt" "sequence_02.txt" "sequence_01Out.txt" "sequence_01.txt" "RunPSPNet.m" "ReadPoseData.m" "ReadOdomMessages.m" "ReadmeFirst.txt" "README.md" "ReadImgs.m" "ReadData.m" "ReadBagFiles.m" "PlotPointCloud.m" "output/" "network.pyc" "network.py" "model.pyc" "model.py" "Misc.py" "living_room_traj3_loop.txt" "living_room_traj2_loop.txt" "living_room_traj1_loop.txt" "living_room_traj0_loop.txt" "list/" "input/" "inferenceAll.py~" "inferenceAll.py" "inference2.py~" "inference2.py" "inference.py" "image_reader.py" "ICLDatase.txt" "GetFullPath.m" "ExtractTime.m" "ExtractImgs.m" "evaluateNew.py~" "evaluateNew.py" "evaluate.py" "CVLDatasetAVW4470.txt" "CVLDataset.txt" "._.DS_Store" ".gitignore" ".git/" ".DS_Store" "#inferenceAll.py#" "sequence_06.txt" "model/" "../" "./")
+
+ ("/media/nitin/Research/Homing/HomingNet/Misc/" (23211 5251 373535 700000) "__pycache__/" "__init__.pyc" "__init__.py" "MiscUtils.py" "ImageUtils.py~" "ImageUtils.pyc" "ImageUtils.py" "../" "./")
+
+ ("/media/nitin/Research/Homing/HomingNet/" (23234 22918 382279 100000) "TxtFiles/" "Train2.py~" "Train2.py" "Train.py" "TestTry.py~" "TestTry.py" "TestOnWebcam.py" "Test2.py~" "Test2.py" "Test.py" "README.md" "PlotTest.py~" "Network/" "Misc/" "Logs/" ".git/" "../" "./")
+
+ ("/media/nitin/Research/Homing/HomingNet/Network/" (23230 21683 919927 500000) "__init__.py" "NetworkOnlyConvSmall2.py~" "NetworkOnlyConvSmall2.py" "NetworkOnlyConvSmall.py~" "NetworkOnlyConvSmall.py" "NetworkOnlyConvClassification.py~" "NetworkOnlyConv.py~" "NetworkOnlyConv.py" "Network2.py~" "Network2.py" "Network.py~" "Network.py" "../" "./")
+
+ ("/media/nitin/Research/Homing/SpectralCNN/src/modules/" (23247 57024 388884 400000) "__pycache__/" "utils.py" "spectral_pool_test.py" "spectral_pool.py" "layers.py" "image_generator.py" "frequency_dropout.py" "create_images.py" "cnn_with_spectral_pooling.py" "cnn_with_spectral_parameterization.py" "../" "./")
+
+ ("/media/nitin/Research/Homing/SpectralCompression/Misc/" (23272 58013 156235 500000) "__pycache__/" "__init__.pyc" "__init__.py" "MiscUtils.py" "ImageUtils.py~" "ImageUtils.pyc" "ImageUtils.py" "../" "./")
+
+ ("/media/nitin/Research/Homing/SpectralCompression/Network/" (23280 60898 857322 700000) "__init__.py" "NetworkTeacher.py~" "NetworkTeacher.py" "NetworkStudent.py~" "NetworkStudent.py" "NetworkOnlyConvSmall2.py~" "NetworkOnlyConvSmall2.py" "NetworkOnlyConvSmall.py~" "NetworkOnlyConvSmall.py" "NetworkOnlyConvClassification.py~" "NetworkOnlyConv.py~" "NetworkOnlyConv.py" "Network2.py~" "Network2.py" "Network.py~" "../" "./")
+
+ ("/home/nitin/Research/SpectralCompression/Network/" (23294 35371 166241 286000) "Network2.py" "NetworkStudent.py" "NetworkTeacher.py" "NetworkOnlyConv.py~" "Network.py~" "NetworkOnlyConvClassification.py~" "__init__.py" "NetworkOnlyConvSmall2.py~" "NetworkStudent.py~" "NetworkOnlyConvSmall.py~" "../" "NetworkOnlyConvSmall2.py" "NetworkOnlyConvSmall.py" "NetworkTeacher.py~" "NetworkOnlyConv.py" "Network2.py~" "./")
+
+ ("/home/nitin/Downloads/ieeeconf/" (23206 54569 462263 173000) "img/" "ieee.bst" "root.pdf" "IEEEtranS.bst" "root.out" "root.aux" "root.log" "egbib.bib" "../" "root.tex" "ieeeconf.cls" "IEEEtran.bst" "./")
+
+ ("/media/nitin/Research/" (23197 37609 217162 100000) "CppTest/" "VSfm/" "Thesis/" "TensorFlowInstall.txt" "Telluride/" "System Volume Information/" "SalientDSO/" "Review/" "R2015a Linux/" "QuadrotorSimulator/" "QuadOnQuad/" "Puppet/" "Papers/" "OpticalFlowCNN/" "NYUv2CorrUtils/" "NYUv2Corr/" "NYUv2/" "msdia80.dll" "Minimum-snap-trajectory-generator-master/" "matconvnet/" "LightNet/" "Homing/" "GTSAM/" "GIT/" "GapAssesmentCNN/" "GapAssesment/" "FisheyeCalibrationMATLAB/" "Datasets/" "CUDAInstall.txt" "CameraCalibration/" "Books/" "BACKUPS/" "ATLocalizationPnP/" "AprilTagsC/" ".Trash-1000/" "$RECYCLE.BIN/" "../" "./")
+
+ ("/media/nitin/Research/Homing/" (23201 55802 566410 100000) "StraightLineFrames/" "SquareFrames/" "SlowCircleFrames/" "Project_2_Phase_2.zip" "Project_2_Phase_1.zip" "NEW_DATA_OUTPUT.tar.7z" "NEW_DATA_OUTPUT/" "MountainFrames/" "MappingFrames.zip" "MappingFrames/" "HomingNet/" "FastCircleFrames/" "DataMapping.mat" "DataMapping/" "DataFastCircle.mat" "DataFastCircle/" "code/" "Checkpoints/" "../" "./")
+
+ ("/media/nitin/Research/QuadOnQuad/StereoTest/HomingNet/" (23197 36633 383061 100000) "TxtFiles/" "Train.py~" "Train.py" "TestOnWebcam.py" "Test.py" "README.md" "Network/" "Misc/" "memory_usage.sh" "Logs/" ".git/" "../" "./")
+
+ ("/media/nitin/" (23197 26681 557567 735000) "Research/" "Education/" "../" "NitinSpace/" "UBUNTUUSB/" "./")
+
+ ("/media/nitin/Research/QuadOnQuad/" (23197 26882 322114 800000) "StereoTest/" "apriltag-2016-12-01.tgz" "apriltag-2016-12-01/" "../" "./")
+
+ ("/media/nitin/Research/QuadOnQuad/StereoTest/" (23197 31426 990298 600000) "Tsubaka/" "TestStereo.m" "StereoTest.py~" "StereoTest.py" "optical_flow.pdf" "motion.pdf" "mc-cnn/" "HomingNet/" "CVL2/" "CVL/" "../" "./")
+
+ ("/home/nitin/.emacs.d/" (23173 41806 902004 305000) "ac-comphist.dat" "ido.last~" "session.10611c9f21ca655deb15005208882407200000019420070" "session.10f1dd5746636895fb150474313332711200000022680056" "session.10303c1143edc045aa150950620264719300000022240057" "session.10362778674eecba57148728060530319500000022290055" "ido.last" "session.10303c1143edc045aa150974103841746800000022240068" "session.1047671db164bfc2b7150899248870298800000026630056" "../" "session.104b0870f4d2e3020e151003376341364000000024800102" "session.102f097c1fb513a66151856744168935700000024730055" ".python-environments/" "session.10797461d437797fdf150432912826402200000024510068" "session.1086d628cd1efbddb3150889524926647900000023060054" "auto-save-list/" "session.10303c1143edc045aa150976595613134000000022240069" "session.1031ccc8a344eede49148607038666461500000019180056" "url/" "srecode-map.el" "session.1027b727092187bef4150119765673167300000019870056" "session.109ce3345a400f074215097661729220700000022210056" "elpa/" "./")
+
+ ("/media/nitin/Research/GapAssesment/spynet/" (23160 4771 28190 900000) "util.lua" "transforms.lua" "train_val_split.txt" "train.lua" "timing_util.lua" "timing_benchmark.lua" "TestFloWorking/" "TestFlo2/" "test.lua" "Test/" "spynet.lua" "samples/" "RunSpyNetAll.m" "RunSpyNet05Feb2018.m" "RunSpyNet.lua~" "RunSpyNet.lua" "RunNormalFlow.m" "ReadMeFirst.txt" "README.md" "ReadFlowFromFile.m" "ReadFlow.m" "PythonTest.py~" "PythonTest.py" "PreprocessImg.m" "PlotsN4AmoebaSpyNet/" "PlotsN3AmoebaSpyNet/" "PlotsN2AmoebaSpyNet/" "Outputs/" "opts.lua" "model.lua" "main.lua" "LICENSE" "Inputs/" "GetFullPath.m" "FramesJan31/" "Frames/" "FlowUtils/" "FlowReadWrite/" "flowExtensions.lua" "Filtering.m" "extras/" "EPECriterion.lua" "donkey.lua" "DataSuperSlow/" "DataSuperFast2/" "DataSuperFast/" "dataset.lua" "DataJan31/" "data.lua" "AddInvFlows.m" "AddFlows.m" ".gitignore" ".git/" "models/" "../" "./")
+
+ ("/media/nitin/Research/GapAssesmentCNN/GapAssesmentCNN/Network/" (23041 25120 986036 400000) "__init__.py" "NetworkTrainedNoBN.py" "Network2TrainedWithBN.py" "Network2.py" "Network.py" "../" "./")
+
+ ("/media/nitin/Research/GapAssesment/WindowDetectionDraft/" (23065 19676 43368 100000) "Ref.bib" "main.tex~" "IEEEtran.cls" "ieeeconf.cls" "Draft.tex~" "Draft.tex" "Draft.log" "../" "./")
+
+ ("/media/nitin/Research/GapAssesmentCNN/GapAssesmentCNN/Misc/" (23041 17930 694296 0) "__init__.pyc" "__init__.py" "MiscUtils.py" "ImageUtils.pyc" "ImageUtils.py" "../" "./")
+
+ ("/media/nitin/Research/GapAssesmentCNN/" (23041 16611 64375 600000) "Train.py~" "TensorFlow-Examples/" "Tensorflow-DeconvNet-Segmentation/" "tensorflow-cifar-10/" "Network.py~" "MNISTTrain.py" "Matlab/" "Logs/" "GapAssesmentCNNSLIMBased/" "GapAssesmentCNNDingGitBased/" "GapAssesmentCNNDevelopment/" "GapAssesmentCNN BACKUP07Nov2017WORKING/" "GapAssesmentCNN/" "CNNUtils.py~" "CheckpointsSingleImgDivTrain200Epochs211/" "CheckpointsSingleImgDivTrain200Epochs14BNLR5e-4/" "CheckpointsSingleImgDivTrain200Epochs14BN/" "Checkpoints/" "3DGANLang/" "../" "./")
+
+ ("/media/nitin/Research/SalientDSO/" (23171 53744 702109 200000) "VSEPDataset/" "PSPNet-tensorflow/" "ICLDataset/" "../" "./")
+
+ ("/media/nitin/Research/GapAssesmentCNN/GapAssesmentCNN/" (23041 24620 494847 100000) "TxtFiles/" "Train2.py~" "Train.py" "Testzz.py~" "TestOnWebcam.py~" "TestOnWebcam.py" "TestArgParse.py~" "Test.py~" "Test.py" "TensorBoardTest.py~" "README.md" "Network2.py~" "Network/" "MiscUtils.py~" "Misc/" "memory_usage.sh" "Logs/" "ImageUtils.py~" ".git/" "MNISTTrain.py~" "../" "./")
+
+ ("/media/nitin/Education/Fall2017/CMSC828T/Projects/P2/Ph1/P2Ph1Draft/" (23026 26846 315960 0) "SLAMDunk.png" "Ref.bib~" "Ref.bib" "P2Ph1.tex~" "P2Ph1.tex" "P2Ph1.pdf" "P2Ph1.out" "P2Ph1.log" "P2Ph1.blg" "P2Ph1.bbl" "P2Ph1.aux" "HW1.tex~" "AT.jpg" "../" "./")
+
+ ("/media/nitin/Research/GapAssesmentCNN/TensorFlow-Examples/examples/3_NeuralNetworks/" (23025 27790 908432 900000) "variational_autoencoder.py" "recurrent_network.py" "neural_network_raw.py" "neural_network.py" "multilayer_perceptron.py" "gan.py" "dynamic_rnn.py" "dcgan.py" "convolutional_network_raw.py" "convolutional_network.py" "bidirectional_rnn.py" "autoencoder.py" "../" "./")
+
+ ("/media/nitin/Research/GapAssesmentCNN/TensorFlow-Examples/examples/" (23025 27790 910707 0) "6_MultiGPU/" "5_DataManagement/" "4_Utils/" "3_NeuralNetworks/" "2_BasicModels/" "1_Introduction/" "../" "./")
+
+ ("/media/nitin/Research/GapAssesmentCNN/TensorFlow-Examples/" (23025 27790 926633 700000) "resources/" "README.md" "notebooks/" "LICENSE" "input_data.py" "examples/" ".gitignore" ".git/" "../" "./")
+
+ ("/media/nitin/Education/Fall2017/CMSC828T/" (22972 4907 963524 400000) "Slides/" "Projects/" "Homeworks/" "GTSAM/" "ATMatCreatorData/" "ATMatCreator/" "../" "./")
+
+ ("/media/nitin/Education/Fall2017/CMSC828T/Projects/" (22989 38652 873386 600000) "P3/" "P2/" "P1/" "../" "./")
+
+ ("/media/nitin/Education/Fall2017/CMSC828T/Projects/P2/" (22989 38658 413238 800000) "Ph1/" "../" "./")
+
+ ("/media/nitin/Education/Fall2017/CMSC828T/Projects/P2/Ph1/" (22995 60130 5933 600000) "P2Ph1Draft.zip" "P2Ph1Draft/" "P2Ph1.zip" "Data/" "code/" "../" "./")
+
+ ("/media/nitin/Research/GapAssesmentCNN/3DGANLang/PaperSummaries/" (23009 25828 861024 900000) "PPGAN.txt~" "PPGAN.txt" "GuibasImageTo3DSummary.txt" "GeneratingChairCNNSummary.txt" "GANTextToImageSummary.txt" "GAN3DLatentSpaceArithmetic.txt" "#GANTextToImageSummary.txt#" "../" "./")
+
+ ("/home/nitin/EmacsFiles/" (23008 14459 131583 451000) "GANTextToImageSummary.org~" "GeneratingChairCNNSummary.org~" "IMAVISReview1.org~" "GuibasImageTo3DSummary.org~" "GuibasImageTo3DSummary.org" "TeamViewerInstall.txt" "IMAVISReview1.org" "GAN3DLatentSpaceArithmetic.org~" "Notes.log/" "Todo.org" "Notes.txt" "Notes.txt~" "IM2CAD.org~" "IM2CAD.org" "GAN3DLatentSpaceArithmetic.org" "../" "GeneratingChairCNNSummary.org" "GANTextToImageSummary.org" "Todo.tex~" "Todo.org~" "./")
+
+ ("/media/nitin/Education/Fall2017/CMSC828T/Homeworks/HW1Draft/" (22995 43409 164056 700000) "Ref.bib~" "Ref.bib" "HW1.tex~" "HW1.tex" "HW1.pdf" "HW1.out" "HW1.log" "HW1.blg" "HW1.bbl" "HW1.aux" "AT.jpg" "../" "./")
+
+ ("/media/nitin/Research/GapAssesmentCNN/3DGANLang/" (23008 16417 939221 800000) "README.md" "README/" "PaperSummaries/" ".git/" "../" "./")
+
+ ("/media/nitin/Education/" (22995 42628 266218 800000) "Wallpapers/" "System Volume Information/" "SteamLibrary/" "Spring2017/" "MotorcycleInsurance/" "Fall2017/" "Fall2016/" "CV/" "CourseraSelfDrivingCourse/" "a-1.png" ".Trash-1000/" ".-1.ppm" "$RECYCLE.BIN/" "#000 Kelly’s Driver Improvement.pdf" "../" "./")
+
+ ("/media/nitin/Education/Fall2017/CMSC828T/Projects/P2/Ph1/P2Ph1/" (22995 55675 768920 700000) "Ref.bib~" "Ref.bib" "P2Ph1.tex~" "P2Ph1.tex" "P2Ph1.pdf" "P2Ph1.out" "P2Ph1.log" "P2Ph1.blg" "P2Ph1.bbl" "P2Ph1.aux" "HW1.tex~" "AT.jpg" "../" "./")
+
+ ("/media/nitin/Education/Fall2017/CMSC828T/Projects/P3/Ph3/" (22960 36930 546546 900000) "VID_20170902_032557.mp4" "VID_20170902_005205.mp4" "GenerateBarsForWindow.m" "DetectWindow.py~" "DetectWindow.py" "CMSC828TP3Ph3/" "Calibration/" "BlackBar.png" "../" "./")
+
+ ("/media/nitin/Education/Fall2017/CMSC828T/Projects/P3/Ph3/CMSC828TP3Ph3/" (22972 3307 185281 400000) "VID_20170902_032557.mp4" "README.md" "GenerateBarsForWindow.m" "drone_controller.py" "DetectWindow_ROS.py" "DetectWindow_Odometry_ROS.py" "DetectWindow.py" "BlackBar.png" ".git/" "../" "./")
+
+ ("/media/nitin/Education/Fall2017/CMSC828T/Projects/P3/" (22954 9696 257565 700000) "Ph3/" "../" "./")
+
+ ("/media/nitin/Education/Fall2017/" (22947 43294 162334 700000) "RequestForWaiver/" "MEAM520/" "CMSC828T/" "../" "./")
+
+ ("/media/nitin/Research/Review/IMAVIS2017/" (22829 62681 366057 200000) "IMAVIS-D-16-00359" "IMAVIS-D-16-00176R1.pdf" "IMAVIS-D-16-00176R1.org~" "IMAVIS-D-16-00176R1.org" "../" "./")
+
+ ("/media/nitin/Education/Spring2017/CMSC733/Midterm/Draft/" (22772 6941 471784 500000) "UMDLogo.jpg" "Square.png" "Ref.bib" "Parachute.jpg" "Pacman.png" "Draft.tex" "Draft.synctex.gz" "Draft.pdf" "Draft.out" "Draft.log" "Draft.aux" "AT.png" "AT.jpg" "1.png" "../" "./")
+
+ ("/media/nitin/Education/Spring2017/CMSC733/P4/Draft/" (22767 60171 443138 600000) "Ref.bib~" "Ref.bib" "P4.tex~" "P4.tex" "P4.synctex.gz" "P4.pdf" "P4.out" "P4.log" "P4.dvi" "P4.blg" "P4.bbl" "P4.aux" "Images/" "../" "./")
+
+ ("/media/nitin/Research/ATLocalizationPnP/" (22812 59504 333066 0) "Test1.py~" "Test1.py" "../" "./")
+
+ ("/media/nitin/Education/Spring2017/CMSC733/Midterm/Solutions/Draft/" (22772 11257 637403 500000) "Vert.png" "UMDLogo.jpg" "Square.png" "Ref.bib~" "Ref.bib" "Q8d2.png" "Q8d1.png" "Q8c.png" "Q8b.png" "Q8a.png" "Parachute.jpg" "Pacman.png" "MidtermSolutions.tex~" "MidtermSolutions.tex" "MidtermSolutions.pdf" "MidtermSolutions.out" "MidtermSolutions.log" "MidtermSolutions.blg" "MidtermSolutions.bbl" "MidtermSolutions.aux" "Mag.png" "Circ2.png" "Circ1.png" "AT1.png" "AT.png" "AT.jpg" "2015_hw3solutions.zip" "1.png" "../" "./")
+
+ ("/media/nitin/Education/Spring2017/CMSC733/HW3/Draft/" (22788 492 916208 600000) "Ref.bib~" "Ref.bib" "HW3.tex~" "HW3.tex" "HW3.pdf" "HW3.out" "HW3.log" "HW3.blg" "HW3.bbl" "HW3.aux" "HW2.tex~" "HW1.tex~" "../" "./")
+
+ ("/media/nitin/Research/Review/" (22791 39057 215061 100000) "RSS2018/" "IMAVIS2017/" "ICCV2017/" "CVIU2017/" "../" "./")
+
+ ("/media/nitin/Education/Spring2017/CMSC733/HW3/HW1Draft/" (22674 39629 682932 0) "SeamCarving.jpg" "Ref.bib" "HW1.tex~" "HW1.tex" "HW1.synctex.gz" "HW1.pdf" "HW1.out" "HW1.log" "HW1.blg" "HW1.bbl" "HW1.aux" "FillIt.png" "AllShapes.png" "../" "./")
+
+ ("/media/nitin/Education/Spring2017/CMSC733/HW3/" (22787 61759 785035 300000) "YourDirectoryID_hw3/" "Test1.m" "HW1Draft/" "Draft/" "../" "./")
+
+ ("/media/nitin/Education/Spring2017/CMSC733/HW3/HW3Draft/" (22674 40631 672932 0) "Window.jpg" "Ref.bib" "Parachute.jpg" "HW2.tex" "HW2.synctex.gz" "HW2.pdf" "HW2.out" "HW2.log" "HW2.blg" "HW2.bbl" "HW2.aux" "HW1.tex~" "AT.png" "AT.jpg" "1.jpg" "../" "./")
+
+ ("/media/nitin/Education/Spring2017/CMSC733/" (22772 12507 968529 900000) "Slides.zip" "ServerLogin/" "ppt8E52.tmp" "P5/" "P4/" "P3/" "P2/" "P1/" "Midterm/" "HW3/" "HW2/" "HW1/" "HW0/" "FaceSwap.png" "Face Swap!.pptx" "EfrosSlides2.pptx" "EfrosSlides.pptx" "dataset.bag.tar.gz" "dataset.bag" "comma-dataset/" "../" "./")
+
+ ("/media/nitin/Education/Spring2017/CMSC764/" (22783 46482 200788 400000) "Trefethen & Bau  -  Numerical Linear Algebra.pdf" "Slides/" "RockafellarConvexAnalysis.pdf" "HW8/" "HW7/" "HW6/" "HW5/" "HW4/" "HW3/" "HW2/" "HW1/" "Homeworks/" "BoydTextbook.pdf" "../" "./")
+
+ ("/media/nitin/Education/Spring2017/CMSC764/HW8/" (22786 15437 985661 200000) "764_hmwk8_duality.tex~" "764_hmwk8_duality.tex" "764_hmwk8_duality.pdf" "764_hmwk8_duality.log" "764_hmwk8_duality.aux" "../" "./")
+
+ ("/media/nitin/Research/CppTest/" (22753 46864 73079 300000) "Test1.cpp~" "Test1.cpp" "Makefile" "cmake_install.cmake" "CMakeLists.txt~" "CMakeLists.txt" "CMakeFiles/" "CMakeCache.txt" "../" "./")
+
+ ("/media/nitin/Research/Datasets/" (22722 16076 650070 700000) "ModelNet40.zip" "ModelNet10.zip" "../" "./")
+
+ ("/media/nitin/Research/Telluride/InterestStatement/" (22752 10127 918789 200000) "InterestStatementNitinJSanket.pdf" "InterestStatement.tex~" "InterestStatement.tex" "InterestStatement.pdf" "InterestStatement.out" "InterestStatement.log" "InterestStatement.aux" "../" "./")
+
+ ("/media/nitin/Research/Telluride/" (22752 9757 122766 0) "InterestStatement/" "CVNitinJSanket.pdf" "../" "./")
+
+ ("/media/nitin/Education/Spring2017/CMSC733/Midterm/" (22749 15193 609157 200000) "MyDraft/" "Images/" "Draft/" "../" "./")
+
+ ("/media/nitin/Education/CV/" (22752 9558 448651 900000) "CVPhD1PageFormat.tex~" "CVPhD1PageFormat.tex" "CVPhD1PageFormat.pdf" "CVPhD1PageFormat.out" "CVPhD1PageFormat.log" "CVPhD1PageFormat.aux" "../" "./")
+
+ ("/media/nitin/Education/Spring2017/" (22747 4183 680520 700000) "RoboticsTalk/" "RequestForWaiver/" "FrontStream Payments.pdf" "ESE650/" "ENPM673/" "CMSC828.tex~" "CMSC828/" "CMSC764/" "CMSC733/" "CIS580/" "aa.py~" "../" "./")
+
+ ("/media/nitin/Education/Spring2017/CMSC764/HW5/" (22720 62289 829130 600000) "Submitted/" "richardson.m" "OLD/" "nystrom.pdf" "make2moons.m" "lenagray.jpg" "l2denoise.m" "hmwk5.m" "grad2d.m" "Draft/" "div2d.m" "conjgrad.m" "764_hmwk5_nla.pdf" "../" "./")
+
+ ("/media/nitin/Education/Spring2017/CMSC733/P1/YourDirectoryID_P1/" (22682 16975 0 0) "Report/" "ReadmeFirstEDITTHIS.txt" "P1.pdf" "Images/" "Draft/" "Code/" "../" "./")
+
+ ("/media/nitin/Education/Spring2017/CMSC733/P1/" (22691 65135 943619 100000) "YourDirectoryID_P1.zip" "YourDirectoryID_P1/" "TestSet_P1.zip" "TestSet_P1/" "../" "./")
+
+ ("/media/nitin/Education/Spring2017/CMSC733/P2/" (22719 37546 950510 600000) "YourDirectoryID_P2.zip" "YourDirectoryID_P2/" "TestSet_P2.zip" "TestSet_P2/" "Kazemi_One_Millisecond_Face_2014_CVPR_paper.pdf" "face-cvpr12.pdf" "EfrosSlides.pdf" "Draft/" "Code/" "CIS581FinalProject.pdf" "cis581-project-2.pdf" "../" "./")
+
+ ("/media/nitin/Education/Spring2017/CMSC733/P3/" (22732 40319 632623 800000) "VSfm/" "proj2.pdf" "Draft/" "../" "./")
+
+ ("/media/nitin/Education/Spring2017/CMSC733/P3/Draft/" (22732 41498 234625 100000) "Ref.bib~" "Ref.bib" "P3.tex~" "P3.tex" "P3.pdf" "P3.out" "P3.log" "P3.aux" "P2.tex~" "P1.tex~" "Images/" "../" "./")
+
+ ("/media/nitin/Education/Spring2017/CMSC764/HW5/Draft/" (22720 44997 398890 900000) "Images/" "HW4.tex~" "HW4.tex" "HW4.pdf" "HW4.out" "HW4.log" "HW4.aux" "HW3.tex~" ".#HW4.tex" "../" "./")
+
+ ("/media/nitin/Education/Spring2017/CMSC764/HW4/Draft/" (22711 22765 515160 600000) "HW4.tex~" "HW4.tex" "HW4.pdf" "HW4.out" "HW4.log" "HW4.aux" "HW3.tex~" "../" "./")
+
+ ("/media/nitin/Education/Spring2017/CMSC733/HW2/Draft/" (22714 16261 630888 500000) "Ref.bib~" "Ref.bib" "Nitin.jpg" "HW2.tex~" "HW2.tex" "HW2.synctex.gz" "HW2.pdf" "HW2.out" "HW2.log" "HW2.aux" "HW1.tex~" "../" "./")
+
+ ("/media/nitin/Education/Spring2017/CMSC733/HW2/" (22714 14526 362381 400000) "gtsam_toolbox/" "gtsam-tutorial.pdf" "Draft/" "../" "./")
+
+ ("/media/nitin/Education/Spring2017/CMSC764/HW4/" (22711 20756 892583 100000) "Submitted/" "smreluGrad.m" "smrelu.m" "net_grad.m" "mnist.h5" "logreg_objective.m" "load_mnist.m" "ldash.m" "L3_tv_fft_calc.pdf" "l.m" "HW4.pdf" "hmwk4.m" "grad2d.m" "ForwardPass.m" "Draft/" "div2d.m" "create_random_net.m" "create_classification_problem.m" "check_gradient.m" "BackProp.m" "764_hmwk4_backprop.pdf" "../" "./")
+
+ ("/media/nitin/Education/Spring2017/CMSC733/P2/YourDirectoryID_P2/Code/" (22701 65384 149726 700000) "PutYourCodeshere.txt" "FaceDetectorCodes/" "../" "./")
+
+ ("/media/nitin/Education/Spring2017/CMSC733/P2/Draft/" (22703 9299 79809 200000) "Ref.bib~" "Ref.bib" "P2.tex~" "P2.tex" "P2.pdf" "P2.out" "P2.log" "P2.blg" "P2.bbl" "P2.aux" "P1.tex~" "../" "./")
+
+ ("/media/nitin/Education/Spring2017/CMSC733/P2/Code/dlib-master/python_examples/" (22699 64033 167701 300000) "train_shape_predictor.py" "train_object_detector.py" "test.py" "svm_struct.py" "svm_rank.py" "shape_predictor_68_face_landmarks.dat" "sequence_segmenter.py" "PlotLandMarks.m" "PlotBB.m" "ParseInputs.m" "max_cost_assignment.py" "LICENSE_FOR_EXAMPLE_PROGRAMS.txt" "find_candidate_object_locations.py" "face_recognition.py" "face_landmark_detection.py~" "face_landmark_detection.py" "face_detector.py" "FaceLandmarksNitin.py~" "FaceLandmarksNitin.py" "DLibRunnner.m" "dlib.so" "correlation_tracker.py" "../" "./")
+
+ ("/media/nitin/Education/Spring2017/CMSC733/P2/YourDirectoryID_P2/" (22701 60445 94175 500000) "Report/" "ReadmeFirstEDITTHIS.txt" "Images/" "Draft/" "Code/" "../" "./")
+
+ ("/media/nitin/Education/Spring2017/CMSC764/HW1/" (22687 21940 252968 400000) "_region_.tex" "Submitted/" "Ref.bib" "nitinsanHW0.zip" "HW1.tex~" "HW1.tex" "HW1.pdf" "HW1.out" "HW1.log" "HW1.blg" "HW1.bbl" "HW1.aux" "hmwk1_1.py" "hmwk1.py~" "hmwk1.py" "764_hmwk_linalg.pdf" "../" "./")
+
+ ("/media/nitin/Education/Spring2017/CMSC733/HW1/Code/" (22686 30148 856457 400000) "R2q.m" "q2R.m" "MinGeoError.m" "isToolboxAvailable.m" "InitCalibration.m" "Imgs/" "GeoError.m" "Evaluate.m" "est_homography.m" "EstimateRt_linear.m" "EstimateK_linear.m" "demo.m" "cprintf.m" "checkerboardPattern.pdf" "../" "./")
+
+ ("/media/nitin/Education/Spring2017/CMSC733/HW1/Draft/" (22696 61328 253402 100000) "Ref.bib~" "Ref.bib" "HW1.tex~" "HW1.tex" "HW1.synctex.gz" "HW1.pdf" "HW1.out" "HW1.log" "HW1.blg" "HW1.bbl" "HW1.aux" "../" "./")
+
+ ("/media/nitin/Education/Spring2017/CMSC764/HW2/" (22691 31411 554001 500000) "Submitted/" "smrelu.m" "net_objective.m" "mnist.h5" "logreg_objective.m" "lenagray.jpg" "lena.jpg" "Kappa10.eps" "Kappa10-eps-converted-to.pdf" "Kappa1.eps" "Kappa1-eps-converted-to.pdf" "HW2.tex~" "HW2.tex" "HW2.pdf" "HW2.out" "HW2.log" "HW2.aux" "hmwk1.py" "hmwk1.m" "grad2d.m" "Grad.eps" "Grad-eps-converted-to.pdf" "div2d.m" "Div.eps" "Div-eps-converted-to.pdf" "dispbuildmat.m" "create_classification_problem.m" "buildmat2.m" "buildmat.m" "764_hmwk2_opt_probs.pdf" "../" "./")
+
+ ("/media/nitin/Education/Spring2017/CMSC733/P2/Code/" (22698 30894 466801 800000) "Test1.m" "find_face_landmarks-master/" "find_face_landmarks-1.1Compiled/" "face-release1.0-basic/" "dlib-master/" "../" "./")
+
+ ("/media/nitin/Education/Spring2017/CMSC733/P2/Code/dlib-master/" (22698 27145 162532 900000) "tools/" "setup.py" "README.md" "python_examples/" "MANIFEST.in" "examples/" "docs/" "dlib/" "dist/" "CMakeLists.txt" "build/" ".travis.yml" ".hgtags" ".hgignore" ".gitignore" "../" "./")
+
+ ("/media/nitin/Education/Spring2017/CMSC733/HW1/" (22686 29525 428177 100000) "YourDirectoryID_hw1.zip" "YourDirectoryID_hw1/" "Sols/" "Papers/" "Images/" "Draft/" "Code/" "../" "./")
+
+ ("/media/nitin/Education/Spring2017/CIS580/Proj1/mysid_proj1/" (22685 56434 480113 700000) "Rt.png" "R2q.m" "q2R.m" "picsSidOrg/" "pics/" "MinGeoError.m" "InitCalibration.m" "GeoError.m" "Evaluate.m" "est_homography.m" "EstimateRt_linear.m" "EstimateK_linear.m" "EstimateDistort_linear.m" "demo.m~" "demo.m" "cprintf.m" "compute_homography.m" "../" "./")
+
+ ("/media/nitin/Education/Spring2017/CMSC733/P1/YourDirectoryID_P1/Draft/" (22674 49880 0 0) "IEEEtran_HOWTO.pdf" "IEEEtran.cls" "Draft.tex" "changelog.txt" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

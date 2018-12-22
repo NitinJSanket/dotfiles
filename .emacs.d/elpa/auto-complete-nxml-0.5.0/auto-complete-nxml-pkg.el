@@ -1,0 +1,1 @@
+(define-package "auto-complete-nxml" "0.5.0" "do completion by auto-complete.el on nXML-mode" '((auto-complete "1.4")) :url "https://github.com/aki2o/auto-complete-nxml" :keywords '("completion" "html" "xml"))
