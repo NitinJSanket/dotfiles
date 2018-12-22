@@ -1,6 +1,9 @@
 # dotfiles
 Installation Guides, Hints, Tips and Tricks. 
 
+### TODO
+- Write Notes for Emacs config
+
 ### Update Notes
 - 22 Dec 2018: Backed Up Emacs.d folder
 
